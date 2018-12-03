@@ -1,0 +1,11 @@
+C:\Users\Erick Reyes\Documents\UNICAH\2018\III PERIODO\Gestion de Proyectos\COCASAM\COCASAM\bin\Debug\COCASAM.exe.config
+C:\Users\Erick Reyes\Documents\UNICAH\2018\III PERIODO\Gestion de Proyectos\COCASAM\COCASAM\bin\Debug\COCASAM.exe
+C:\Users\Erick Reyes\Documents\UNICAH\2018\III PERIODO\Gestion de Proyectos\COCASAM\COCASAM\bin\Debug\COCASAM.pdb
+C:\Users\Erick Reyes\Documents\UNICAH\2018\III PERIODO\Gestion de Proyectos\COCASAM\COCASAM\obj\Debug\COCASAM.csprojAssemblyReference.cache
+C:\Users\Erick Reyes\Documents\UNICAH\2018\III PERIODO\Gestion de Proyectos\COCASAM\COCASAM\obj\Debug\COCASAM.FrmProductor.resources
+C:\Users\Erick Reyes\Documents\UNICAH\2018\III PERIODO\Gestion de Proyectos\COCASAM\COCASAM\obj\Debug\COCASAM.Properties.Resources.resources
+C:\Users\Erick Reyes\Documents\UNICAH\2018\III PERIODO\Gestion de Proyectos\COCASAM\COCASAM\obj\Debug\COCASAM.csproj.GenerateResource.cache
+C:\Users\Erick Reyes\Documents\UNICAH\2018\III PERIODO\Gestion de Proyectos\COCASAM\COCASAM\obj\Debug\COCASAM.csproj.CoreCompileInputs.cache
+C:\Users\Erick Reyes\Documents\UNICAH\2018\III PERIODO\Gestion de Proyectos\COCASAM\COCASAM\obj\Debug\COCASAM.exe
+C:\Users\Erick Reyes\Documents\UNICAH\2018\III PERIODO\Gestion de Proyectos\COCASAM\COCASAM\obj\Debug\COCASAM.pdb
+C:\Users\Erick Reyes\Documents\UNICAH\2018\III PERIODO\Gestion de Proyectos\COCASAM\COCASAM\obj\Debug\COCASAM.Usuario.resources
